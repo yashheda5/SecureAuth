@@ -10,7 +10,7 @@ Try the live demo of SecureAuth hosted on Vercel:
 ## 📦 Direct Download
 
 Download the latest version of SecureAuth as a ZIP file:  
-[Download ZIP](https://github.com/yourusername/SecureAuth/archive/refs/heads/main.zip)
+[Download ZIP](https://github.com/yashheda5/SecureAuth/archive/refs/heads/main.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,14 @@ To set up SecureAuth locally, follow these steps:
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/SecureAuth.git
+   git clone https://github.com/yashheda5/SecureAuth.git
 
    ```
 
 2. **Navigate to the project directory:**
     ```sh
-cd SecureAuth
+    cd SecureAuth
+
     ```
 
 3. **Install the required packages:**
