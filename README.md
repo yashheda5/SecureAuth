@@ -26,7 +26,6 @@ To set up SecureAuth locally, follow these steps:
 2. **Navigate to the project directory:**
     ```sh
 cd SecureAuth
-
     ```
 
 3. **Install the required packages:**
